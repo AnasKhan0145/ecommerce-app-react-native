@@ -1,0 +1,50 @@
+export const dummyProducts = [
+    {
+        id: 'p1',
+        title: 'Premium Wireless Headphones',
+        price: 299.99,
+        description: 'Immersive sound with active noise cancellation and 30-hour battery life.',
+        imageUrl: 'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop',
+        category: 'Electronics',
+    },
+    {
+        id: 'p2',
+        title: 'Minimalist Smartwatch',
+        price: 199.50,
+        description: 'Track your fitness, heart rate, and notifications with this elegant timepiece.',
+        imageUrl: 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=800&auto=format&fit=crop',
+        category: 'Wearables',
+    },
+    {
+        id: 'p3',
+        title: 'Ergonomic Office Chair',
+        price: 159.00,
+        description: 'Designed for comfort during long work hours. Mesh back and adjustable lumbar support.',
+        imageUrl: 'https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?q=80&w=800&auto=format&fit=crop',
+        category: 'Furniture',
+    },
+    {
+        id: 'p4',
+        title: 'Mechanical Keyboard',
+        price: 129.99,
+        description: 'Tactile switches with customizable RGB lighting and premium build quality.',
+        imageUrl: 'https://images.unsplash.com/photo-1595225476474-87563907a212?q=80&w=800&auto=format&fit=crop',
+        category: 'Electronics',
+    },
+    {
+        id: 'p5',
+        title: 'Aesthetic Coffee Mug',
+        price: 24.99,
+        description: 'Handcrafted ceramic mug perfect for your morning brew.',
+        imageUrl: 'https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?q=80&w=800&auto=format&fit=crop',
+        category: 'Home',
+    },
+    {
+        id: 'p6',
+        title: 'Professional Camera Lens',
+        price: 899.00,
+        description: 'Capture stunning portraits with this ultra-sharp 50mm f/1.4 prime lens.',
+        imageUrl: 'https://images.unsplash.com/photo-1616423640778-28d1b53229bd?q=80&w=800&auto=format&fit=crop',
+        category: 'Photography',
+    }
+];
